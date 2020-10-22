@@ -3,7 +3,7 @@
 {% block content %}
 <div class="container">
 
-    <a href="{%url 'upload'%}" class="btn btn-outline-info btn-sm">upload</a>
+    <a href="{%url 'upload'%}" type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off">upload</a>
 
 
     {% for image in images %}
