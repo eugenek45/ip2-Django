@@ -1,7 +1,7 @@
 
 ## Project Name
 
-- Instgram app
+- Instgram App
 
 ## Author Name
 
